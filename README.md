@@ -1,2 +1,1 @@
-# Bootstrap
-Created a site using Bootstrap.
+TinDog Starting Files
